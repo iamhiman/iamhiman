@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Himanshu Kashyap, a Developer 🚀 from India. <img src="https://user-images.githubusercontent.com/23083986/109312038-8d752d80-786c-11eb-895f-cfd5a04bf6f9.gif" width="30" /></h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/23083986/109315655-c8796000-7870-11eb-91b6-436fd7708f2e.gif" width="40%" />
+<img align="right" src="https://user-images.githubusercontent.com/23083986/109315655-c8796000-7870-11eb-91b6-436fd7708f2e.gif" width="35%" />
 
 - 🔭 Software Developer
 - 👨🏽‍💻  I’m currently working on ReactJS and JavaScript.
