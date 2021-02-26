@@ -15,8 +15,9 @@
 - ⚡ Fun Fact: I can talk 24/7 about Geo-Politics.
 
 
-<br >
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=iamhiman&count_private=true&show_icons=true" align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhiman&layout=compact" align="right">
-</div>
+<table>
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=iamhiman&count_private=true&show_icons=true&hide_border=true"> </td>
+    <td>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhiman&layout=compact&hide_border=true"> </td>
+  </tr>
+</table>
