@@ -12,12 +12,17 @@
 - 📫 How to reach me <a href="mailto:kashyap.himanshu27@rocketmail.com" target="_blank">kashyap.himanshu27@rocketmail.com</a>
 - :file_folder: Have a look at my Repos & do Leave a STAR :star: if you like my work :man_technologist:
 - 🌐 Visit my [porfolio website](http://himankash.epizy.com/) for complete background and contact.
-- ⚡ Fun Fact: I can talk 24/7 about Geo-Politics.
+<!--- ⚡ Fun Fact: I can talk 24/7 about Geo-Politics.-->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhiman&layout=compact&count_private=true">
+</p>  
 
+<!--
 <table>
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=iamhiman&count_private=true&show_icons=true&hide_border=true"> </td>
     <td>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhiman&layout=compact&hide_border=true"> </td>
   </tr>
 </table>
+-->
