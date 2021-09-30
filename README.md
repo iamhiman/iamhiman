@@ -7,7 +7,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/23083986/109315655-c8796000-7870-11eb-91b6-436fd7708f2e.gif" width="35%" />
 
 - 🔭 Software Developer
-- 👨🏽‍💻  I’m currently working on ReactJS and JavaScript.
+- 👨🏽‍💻  I’m currently working on ReactJS and TypeScript.
 - 📫 How to reach me <a href="mailto:kashyap.himanshu27@rocketmail.com" target="_blank">kashyap.himanshu27@rocketmail.com</a>
 - :file_folder: Have a look at my Repos & do Leave a STAR :star: if you like my work :man_technologist:
 - 🌐 Visit my [portfolio website](http://himankash.epizy.com/) for complete background and contact.
