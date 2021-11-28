@@ -18,6 +18,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhiman&layout=compact&count_private=true&langs_count=10">
 </p>  
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/himankash/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp; 
+</p>
+
 <!--
 <table>
   <tr>
