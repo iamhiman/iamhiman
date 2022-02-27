@@ -2,15 +2,15 @@
 **iamhiman/iamhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi, I'm Himanshu Kashyap, a Developer 🚀 from India. <img src="https://user-images.githubusercontent.com/23083986/109312038-8d752d80-786c-11eb-895f-cfd5a04bf6f9.gif" width="30" /></h1>
+<h1 align="center">Hi, I'm Himanshu Kashyap, a Software Engineer 🚀 from India. <img src="https://user-images.githubusercontent.com/23083986/109312038-8d752d80-786c-11eb-895f-cfd5a04bf6f9.gif" width="30" /></h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/23083986/109315655-c8796000-7870-11eb-91b6-436fd7708f2e.gif" width="35%" />
 
-- 🔭 Frontend Developer at [Salesbeat](https://www.salesbeat.co/).
+- 🔭 Software Engineer at [Classplus](https://www.linkedin.com/company/classplus/).
 - 👨🏽‍💻  I’m currently working on ReactJS and TypeScript.
-- 📫 How to reach me <a href="mailto:kashyap.himanshu27@rocketmail.com" target="_blank">kashyap.himanshu27@rocketmail.com</a>
+- 📫 Reach out to me at <a href="mailto:himanshu27kashyap@gmail.com" target="_blank">himanshu27kashyap@gmail.com</a>
 - :file_folder: Have a look at my Repos & do Leave a STAR :star: if you like my work :man_technologist:
-- 🌐 Visit my [portfolio website](http://himankash.epizy.com/) for complete background and contact.
+- 🌐 Visit my [personal website](http://himankash.epizy.com/) for complete background and contact.
 <!--- 👨‍💻 All of my projects are available at <a href="https://github.com/iamhiman" target="_blank">https://github.com/iamhiman</a>-->
 <!--- ⚡ Fun Fact: I can talk 24/7 about Geo-Politics.-->
 
