@@ -6,7 +6,7 @@
 <!-- 
 <img align="right" src="https://user-images.githubusercontent.com/23083986/109315655-c8796000-7870-11eb-91b6-436fd7708f2e.gif" width="35%" /> -->
 
-- 🔭 Software Engineer at [Classplus](https://www.linkedin.com/company/classplus/).
+- 🔭 Software Engineer at [Bluecore](https://www.linkedin.com/company/bluecore/).
 - 👨🏽‍💻  I’m currently working on ReactJS and TypeScript.
 - 📫 Reach out to me at <a href="mailto:himanshu27kashyap@gmail.com" target="_blank">himanshu27kashyap@gmail.com</a>
 - :file_folder: Have a look at my Repos & do Leave a STAR :star: if you like my work :man_technologist:
