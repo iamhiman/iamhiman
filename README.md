@@ -6,7 +6,7 @@
 <!-- 
 <img align="right" src="https://user-images.githubusercontent.com/23083986/109315655-c8796000-7870-11eb-91b6-436fd7708f2e.gif" width="35%" /> -->
 
-- 🔭 Software Engineer at [Bluecore](https://www.linkedin.com/company/bluecore/).
+- 🔭 Software Engineer at [Ingenio]([https://www.linkedin.com/company/bluecore/](https://www.ingenio.com/)).
 - 👨🏽‍💻  I’m currently working on NextJS and TypeScript.
 - 📫 Reach out to me at <a href="mailto:himanshu27kashyap@gmail.com" target="_blank">himanshu27kashyap@gmail.com</a>
 - 📁 Have a look at my Repos & do Leave a ⭐ if you like my work 👨‍💻
